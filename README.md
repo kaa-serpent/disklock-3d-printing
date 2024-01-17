@@ -36,7 +36,7 @@ If anyone experiments with this or wants to send me other disc detainer core to 
 
 ## References
 
-* [Toool](https://toool.nl/) Evolution of Abloy series
+* Evolution of Abloy series
   * [Abloy Classic](https://toool.nl/images/5/58/Abloy.pdf)
   * [Abloy Disklock](https://toool.nl/images/f/f3/Abloypart2.pdf)
   * [Abloy Protec](https://toool.nl/images/8/8a/Abloypart3.pdf)
