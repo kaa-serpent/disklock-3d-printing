@@ -33,3 +33,11 @@ first disc and 8 disc are always 0 cut because they are there to tension the loc
 ![decodepic](disklock.jpg)
 
 If anyone experiments with this or wants to send me other disc detainer core to play with I'd love to hear from you.
+
+## References
+
+* [Toool](https://toool.nl/) Evolution of Abloy series
+  * [Abloy Classic](https://toool.nl/images/5/58/Abloy.pdf)
+  * [Abloy Disklock](https://toool.nl/images/f/f3/Abloypart2.pdf)
+  * [Abloy Protec](https://toool.nl/images/8/8a/Abloypart3.pdf)
+* [Abloy Protec Patent US6799447B2](https://patents.google.com/patent/US6799447B2)
