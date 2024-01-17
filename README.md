@@ -16,7 +16,7 @@ if someone manages to with a non-SLA/DLP printer!
 
 The easiest way to use this is to create a new `.scad` file that uses the `abloy_disklock.scad` library, eg:
 
-Navigate to the folder where you installed Openscad then copy past the scad file in the libraries folder `\OpenSCAD\libraries`
+Navigate to the folder where you installed Openscad then copy past the scad file and the blank stl in the libraries folder `\OpenSCAD\libraries`
 
 ```scad
 use <abloy_disklock.scad>
