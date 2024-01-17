@@ -35,7 +35,7 @@ module cutter(cut, cut_index, position) {
                 cube([key_thickness_y, sideLengthFromDiagonal(key_thickness_y), cut_size*2], center = true);
             }
             // Cutting shape for the right side
-            rotate([0,0,90 - cut*disc_angle+6]) // i don't understand why +6 but for some reason i need it to align the discs to the right
+            rotate([0,0,90 - cut*disc_angle+7]) // i don't understand why +7 but for some reason i need it to align the discs to the right
             difference(){
                 cylinder(cut_size, d = key_thickness_x*2);
                 cube([key_thickness_y, sideLengthFromDiagonal(key_thickness_y), cut_size*2], center = true);
