@@ -29,6 +29,6 @@ you need to pass 11 cuts to generate a working key.
 
 first disc and 8 disc are always 0 cut because they are there to tension the lock while turning the key
 
-![decodepic](abloy_disklock.jpg)
+![decodepic](disklock.jpg)
 
 If anyone experiments with this or wants to send me other disc detainer core to play with I'd love to hear from you.
