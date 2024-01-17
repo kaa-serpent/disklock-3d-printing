@@ -45,7 +45,7 @@ module cutter(cut, cut_index, position) {
 }
 
 
-module abloy_dislock_pro(list){
+module abloy_disklock_pro(list){
     difference() {
         import("abloy_dislockpro_blank.stl");
         union(){
@@ -71,4 +71,4 @@ module abloy_dislock_pro(list){
 }
 
 
-abloy_dislock_pro([0,5,3,5,3,1,2,0,2,6,4]);
+abloy_disklock_pro([0,5,3,5,3,1,2,0,2,6,4]);
